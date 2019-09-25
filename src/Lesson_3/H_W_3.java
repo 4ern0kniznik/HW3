@@ -4,7 +4,7 @@ import java.util.*;
 
 public class H_W_3 {
     public static void main(String[] args) {
-//
+
         System.out.println("Answer 1:");
         String [] array = {"Германия", "Россия", "Франция", "Дания", "Россия", "Дания", "Россия", "Дания", "Россия", "Дания", "Россия", "Германия" };
         getWords(array);
